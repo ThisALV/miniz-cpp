@@ -3,6 +3,7 @@
 #include <cstring>
 #include <fstream>
 #include <iterator>
+#include <limits>
 
 #ifdef _WIN32
 #define NOMINMAX
